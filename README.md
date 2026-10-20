@@ -1,3 +1,6 @@
+> [WARNING]
+> This is an archived repo. Currently no PRs and commits will be considered
+
 # Every Website Elements
 
 A simple collection of common HTML elements used across websites — provided with **no styling**.
